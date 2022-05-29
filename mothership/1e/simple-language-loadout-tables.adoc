@@ -1,0 +1,158 @@
+= Simple Language Loadout Tables for Mothership 1e
+
+These tables are built to be used with the _Weapons & Damage_ table on page 2, the _Armor_ table on page 2, the _Equipment_ table on pages 34 and 35 as well as the the _Pets_ table on page 35.
+
+Not all items are defined in those tables though.
+Any item not defined there is [.underline]#underlined# and should be interpreted during the game as it makes sense in the situation, story, and universe.
+
+Other items are described to fit the character class but use stats from a different item.
+In those cases, the items from which stats should be used are noted with "(as _item_)".
+
+== Marine Loadouts
+[cols="1,9"]
+|===
+| D10 | Loadout
+
+| 1
+| Tank Top and Camo Pants (as _Standard Crew Attire_), Combat Knife (as _Scalpel_), Stimpak x1
+
+| 2
+| Advanced Battle Dress, Flamethrower, Boarding Axe
+
+| 3
+| Standard Battle Dress, Combat Shotgun (4 rnds), Camping Gear (as _MoHab Unit_)
+
+| 4
+| Standard Battle Dress, Pulse Rifle (3 mags), Infrared Goggles
+
+| 5
+| Standard Battle Dress, Smart Rifle (3 mags), Binoculars, Personal Locator
+
+| 6
+| Standard Battles Dress, SMG (3 mags), MRE x7
+
+| 7
+| Fatiguesfootnote:fatigues[A military combat or field uniform.] (as _Standard Crew Attire_, but with AP 2), Combat Shotgun (2 rnds), Dog (as _Pet (Organic)_), [.underline]#Leash#, [.underline]#Tennis Ball#
+
+| 8
+| Fagituesfootnote:fatigues[] (as _Standard Crew Attire_, but with AP 2), Revolver (12 rnds), Frag Grenade x1
+
+| 9
+| Dress Uniform (as _Standard Crew Attire_), Revolver (1 rnd), [.underline]#Challenge Coin#
+
+| 10
+| Advanced Battle Dress, Heavy Machine Gun (as _Pulse Rifle_, 3 mags; will probably be changed in the future), HUD
+
+|===
+
+== Android Loadouts
+[cols="1,9"]
+|===
+| D10 | Loadout
+
+| 1
+| Vaccsuit, Smart Rifle (2 mags), Infrared Goggles, Mylar Blanket
+
+| 2
+| Vaccsuit, Revolver (12 rnds), Long-range Comms, Satchel (as _Rucksack_)
+
+| 3
+| Hazard Suit, Revolver (6 rnds), [.underline]#Defibrillator#, First Aid Kit, Flashlight
+
+| 4
+| Hazard Suit, Foam Gun (2 charges), Sample Kit, Screwdriver (as _Assorted Tools_)
+
+| 5
+| Standard Battle Dress, Tranq Pistol (3 shots), Paracord (100m)
+
+| 6
+| Standard Crew Attire, Stun Baton, Small Pet (as _Pet (Organic)_ or _Pet (Synthetic)_)
+
+| 7
+| Standard Crew Attire, Scalpel, Bioscanner
+
+| 8
+| Standard Crew Attire, Frag Grenade x1, [.underline]#Pen Knife#
+
+| 9
+| Manufacturer Supplied Attire (as _Standard Crew Attire_), [.underline]#1 Jump-9 Colony Ship Ticket (blank)#
+
+| 10
+| Corporate Attire (as _Standard Crew Attire_), [.underline]#VIP Corporate Key Card#
+
+|===
+
+== Scientist Loadouts
+[cols="1,9"]
+|===
+| D10 | Loadout
+
+| 1
+| Hazard Suit, Tranq Pistol (3 charges), Bioscanner, Sample Kit
+
+| 2
+| Hazard Suit, Flamethrower (1 charge), Pain Pills x5, Electronic Tool Set
+
+| 3
+| Vaccsuit, Rigging Gunfootnote:riggingGun[A kind of high-tech spear gun.] (1 spear, reusable), Sample Kit, Flashlight, Lab Rat (as _Pet (Organic)_)
+
+| 4
+| Vaccsuit, Foam Gun (2 charges), Foldable Stretcher, First Aid Kit, Radiation Pills x5
+
+| 5
+| Lab Coat (as _Standard Crew Attire_), Screwdriver (as _Assorted Tools_), Medscanner, [.underline]#Vaccine (1 dose)#
+
+| 6
+| Lab Coat (as _Standard Crew Attire_), Cybernetic Diagnostic Scanner, Portable Computer Terminal
+
+| 7
+| Scrubs (as _Standard Crew Attire_), Scalpel, Automed x6, Oxygen Tank with [.underline]#Filter Mask#
+
+| 8
+| Scrubs (as _Standard Crew Attire_), [.underline]#Vial of Acid#, Mylar Blanket, First Aid Kit
+
+| 9
+| Standard Crew Attire, [.underline]#Utility Knife#, Cybernetic Diagnostic Scanner, [.underline]#Duct Tape#
+
+| 10
+| Civilian Clothes (as _Standard Crew Attire_), Briefcase (as _Rucksack_), [.underline]#Prescription Pad#, [.underline]#Fountain Pen (Poison Injector)#
+
+|===
+
+== Teamster Loadouts
+[cols="1,9"]
+|===
+| D10 | Loadout
+
+| 1
+| Vaccsuit, Laser Cutter (charged), [.underline]#Patch Kit#, Extra Battery (for the Laser Cutter)
+
+| 2
+| Vaccsuit, Revolver (6 rnds), Crowbar, Flashlight
+
+| 3
+| Vaccsuit, Rigging Gunfootnote:riggingGun[] (1 spear, reusable), Shovel (as _Assorted Tools_), Drone (Salvage)
+
+| 4
+| Hazard Suit, Vibechete, Spanner (as _Assorted Tools_), Camping Gear (as _MoHab Unit_), Water Filtration Device
+
+| 5
+| Heavy Duty Work Clothes (as _Standard Crew Attire_, but with AP 2), Explosives & Detonator (1 charge), [.underline]#Cigarettes#
+
+| 6
+| Heavy Duty Work Clothes (as _Standard Crew Attire_, but with AP 2), Drill (as _Assorted Tools_), Paracord (100m), Drone (Recon or Salvage)
+
+| 7
+| Standard Crew Attire, Combat Shotgun (4 rnds), [.underline]#Extension Cord (20m)#, Cat (as _Pet (Organic)_)
+
+| 8
+| Standard Crew Attire, Nail Gun (32 rnds), Head Lamp (as _Flashlight_), Satchel (as _Rucksack_)
+
+| 9
+| Standard Crew Attire, Flare Gun (2 rnds), Water Filtration Device,
+Personal Locator, [.underline]#Subsurface Scanner#
+
+| 10
+| Lounge Wear (as _Standard Crew Attire_), Crowbar, Pain Pills x5, [.underline]#Six Pack of Beer#
+
+|===
